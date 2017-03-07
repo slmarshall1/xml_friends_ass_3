@@ -22,7 +22,7 @@ body {
 }
 
 button {
-  background-color: #046380;
+  background-color: #ff66cc;
   color: #FFF;
   border: none;
   padding: 10px 15px;
@@ -30,7 +30,7 @@ button {
   border-radius: 4px;
   cursor: pointer;
   outline: none;
-  box-shadow: 2px 2px 0 #034154;
+  box-shadow: 2px 2px 0 #e60099;
   margin-bottom: 10px;
   margin-left: 18px;
   transition: opacity .4s ease-out, transform .4s ease-out, visibility .4s ease-out;
@@ -39,11 +39,11 @@ button {
 }
 
 button:hover {
-  background-color: #034F66;
+  background-color:  #660044;
 }
 
 button:active {
-  background-color: #034154;
+  background-color: #ffe6f7;
   box-shadow: none;
   position: relative;
   top: -8px;
